@@ -391,6 +391,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Nimit Kalra http://nimit.io
 - Niraj Pant http://niraj.io
 - Nishanth Shanmugham https://nishanths.github.io
+- Nithin Murali http://nithinmurali.github.io/
 - Noah Hradek   http://noahhradek.me/
 - Noam Hacker http://noamhacker.com/
 - Noga Raviv http://nogaraviv.com
